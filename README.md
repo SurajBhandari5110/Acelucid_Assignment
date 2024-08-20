@@ -1,2 +1,3 @@
 # Acelucid_Assignment
-Dotnet Assignment, language used C#
+Dotnet Assignment, programming language used C#.
+
